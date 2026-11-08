@@ -68,9 +68,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jean31XD&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean31XD&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-
 <img src="https://streak-stats.demolab.com?user=Jean31XD&theme=tokyonight&hide_border=true&locale=es" />
 
 </div>
